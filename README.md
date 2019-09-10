@@ -23,4 +23,12 @@ ruby <name_of_ruby_program>.rb
 
 Or using the Interactive Ruby Shell (type **irb** in the terminal/console)
 
+For example:
+```sh
+>irb
+irb(main):001:0> 1+2
+=> 3
+irb(main):002:0> exit
+```
+
 Interactive Ruby Shell (IRB or irb) is a REPL for programming in the object-oriented scripting language Ruby. The abbreviation irb comes from the fact that the filename extension for Ruby is ".rb", although interactive Ruby files do not have an extension of ".irb".
