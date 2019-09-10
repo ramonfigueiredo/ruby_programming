@@ -8,6 +8,8 @@ Some programming examples in Ruby
 ## Ruby Programming
 
 1. [output_with_puts.rb](https://github.com/ramonfigueiredopessoa/ruby_programming/blob/master/src/output_with_puts.rb)
+2. [begin_end_statement.rb](https://github.com/ramonfigueiredopessoa/ruby_programming/blob/master/src/begin_end_statement.rb)
+3. [classes_and_objects.rb](https://github.com/ramonfigueiredopessoa/ruby_programming/blob/master/src/classes_and_objects.rb)
 
 ## How to run the Ruby program
 
