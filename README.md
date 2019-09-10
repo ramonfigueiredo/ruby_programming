@@ -7,7 +7,7 @@ Some programming examples in Ruby
 
 ## Ruby Programming
 
-1. [output_with_puts.rb](#)
+1. [output_with_puts.rb](https://github.com/ramonfigueiredopessoa/ruby_programming/blob/master/src/output_with_puts.rb)
 
 ## How to run the Ruby program
 
